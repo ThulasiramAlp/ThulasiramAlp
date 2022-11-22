@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @ThulasiramAlp
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Pishing attack commonds
+apt update
+apt upgrade
 
-<!---
-ThulasiramAlp/ThulasiramAlp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+git clone git://github.com/Thulasiram H.k.
+cd blackeye
+bash blackeye.sh
